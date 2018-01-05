@@ -36,7 +36,9 @@
     "uniqCompNum": 20,
     "versionPublish": "4.5.4",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/green-dealeron-logo-128x141.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
