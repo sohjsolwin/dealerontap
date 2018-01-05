@@ -1389,6 +1389,7 @@ body {
 .cid-qFSQugPKUp .section-text {
   padding: 2rem 0;
   color: #232323;
+  text-align: center;
 }
 .cid-qFSQugPKUp .inner-container {
   margin: 0 auto;
@@ -1646,5 +1647,8 @@ body {
 .cid-qFT1IcOEaY {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #2e2e2e;
+  background-color: #232323;
+}
+.cid-qFT1IcOEaY .media-container-row .mbr-text {
+  color: #efefef;
 }
